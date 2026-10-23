@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:B62A22&height=230&section=header&text=Sam%20Purcell&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Proof,%20not%20paperwork.&descAlignY=56&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:B62A22&height=200&section=header" width="100%"/>
 
 <a href="https://github.com/jlockwood10">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=B62A22&center=true&vCenter=true&width=640&height=45&lines=AI+Red+Teamer;LLM+Security+Researcher;Offensive+AI+Tooling+in+Rust;Prompt+Injection+%26+Jailbreaks;Founder+%40+Basanos" alt="Typing SVG" />
@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Focus-AI%20Security-0d1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Discipline-Red%20Team-8B0000?style=for-the-badge" />
 </p>
+
+<sub><i>Proof, not paperwork.</i></sub>
 
 </div>
 
