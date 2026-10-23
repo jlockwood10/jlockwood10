@@ -49,6 +49,16 @@ systems     Rust · the unglamorous plumbing that keeps results honest
 
 > More of my work is private today. It opens up as each piece is ready to stand on its own.
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlockwood10/jlockwood10/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jlockwood10/jlockwood10/output/github-snake.svg" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/jlockwood10/jlockwood10/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
 ### `elsewhere`
 
 <p>
