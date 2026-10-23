@@ -53,6 +53,7 @@ systems     Rust · the unglamorous plumbing that keeps results honest
 
 <p>
   <a href="https://basanos.io"><img src="https://img.shields.io/badge/basanos.io-B62A22?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samuel-purcell"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <div align="center">
