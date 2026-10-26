@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:B62A22&height=200&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E9A2C,100:C8FF00&height=200&section=header" width="100%"/>
 
 <a href="https://github.com/jlockwood10">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=B62A22&center=true&vCenter=true&width=640&height=45&lines=AI+Red+Teamer;LLM+Security+Researcher;Offensive+AI+Tooling+in+Rust;Prompt+Injection+%26+Jailbreaks;Founder+%40+Basanos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Martian+Mono&weight=500&size=22&pause=1000&color=C8FF00&center=true&vCenter=true&width=640&height=45&lines=AI+Red+Teamer;LLM+Security+Researcher;Offensive+AI+Tooling+in+Rust;Prompt+Injection+%26+Jailbreaks;Founder+%40+Basanos" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Location-United%20Kingdom-B62A22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Security-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Discipline-Red%20Team-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Security-C8FF00?style=for-the-badge&labelColor=0A0A08" />
+  <img src="https://img.shields.io/badge/Location-United%20Kingdom-0A0A08?style=for-the-badge&labelColor=0A0A08" />
+  <img src="https://img.shields.io/badge/Discipline-Red%20Team-7E9A2C?style=for-the-badge&labelColor=0A0A08" />
 </p>
 
 <sub><i>Proof, not paperwork.</i></sub>
@@ -62,16 +62,16 @@ systems     Rust · the unglamorous plumbing that keeps results honest
 ### `elsewhere`
 
 <p>
-  <a href="https://basanos.io"><img src="https://img.shields.io/badge/basanos.io-B62A22?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
+  <a href="https://basanos.io"><img src="https://img.shields.io/badge/basanos.io-C8FF00?style=for-the-badge&logo=firefoxbrowser&logoColor=0A0A08&labelColor=0A0A08" /></a>
   <a href="https://www.linkedin.com/in/samuel-purcell"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=jlockwood10&color=B62A22&style=flat-square&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=jlockwood10&color=C8FF00&style=flat-square&label=profile+views" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B62A22,100:8B0000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8FF00,100:7E9A2C&height=120&section=footer" width="100%"/>
 
 </div>
